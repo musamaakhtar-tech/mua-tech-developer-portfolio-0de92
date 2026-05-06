@@ -15,6 +15,7 @@ export default function Footer() {
     href="https://github.com/musamaakhtar-tech"
     target="_blank"
     rel="noreferrer"
+    style={{ textDecoration: "none" }}
   >
     MUA Tech
   </a>
