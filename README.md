@@ -1,13 +1,13 @@
 # ⚡️ Software Developer Folio
 
-[![GitHub License](https://img.shields.io/github/license/musamaakhtar-tech/my_developer_folio_1-c1f21?color=blue)](https://github.com/musamaakhtar-tech/my_developer_folio_1-c1f21/blob/master/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/musamaakhtar-tech/my_developer_folio_1-c1f21)](https://github.com/musamaakhtar-tech/my_developer_folio_1-c1f21/stargazers)
+[![GitHub License](https://img.shields.io/github/license/musamaakhtar-tech/mua-tech-developer-portfolio?color=blue)](https://github.com/musamaakhtar-tech/mua-tech-developer-portfolio/blob/master/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/musamaakhtar-tech/mua-tech-developer-portfolio)](https://github.com/musamaakhtar-tech/mua-tech-developer-portfolio/stargazers)
 
 ## ✨ A Clean, Beautiful & Responsive Portfolio Template for Developers
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/musamaakhtar-tech/my_developer_folio_1-c1f21/blob/main/src/assets/images/all-devices-black.png" alt="Developer Portfolio Demo">
+    <img src="https://github.com/musamaakhtar-tech/mua-tech-developer-portfolio/blob/main/src/assets/images/all-devices-black.png" alt="Developer Portfolio Demo">
   </kbd>
 </p>
 
@@ -84,10 +84,10 @@ You can run the project inside a Docker container:
 
 ```bash
 # Build Docker image
-docker build -t my_developer_folio_1-c1f21:latest .
+docker build -t mua-tech-developer-portfolio:latest .
 
 # Run the container on port 3000
-docker run -t -p 3000:3000 my_developer_folio_1-c1f21:latest
+docker run -t -p 3000:3000 mua-tech-developer-portfolio:latest
 ```
 
 This makes it easy to develop in a clean, reproducible environment without manually setting up Node.js or other dependencies.
@@ -100,10 +100,10 @@ Follow these steps to get started locally and start customizing your portfolio:
 
 ```bash
 # Clone this repository
-git clone https://github.com/musamaakhtar-tech/my_developer_folio_1-c1f21.git
+git clone https://github.com/musamaakhtar-tech/mua-tech-developer-portfolio.git
 
 # Navigate to the directory
-cd my_developer_folio_1-c1f21
+cd mua-tech-developer-portfolio
 
 # Create a .env file
 cp env.example .env
@@ -199,7 +199,7 @@ Customize or replace Lottie animations via the JSON files in `src/assets/lottie`
 1. Edit `package.json`:
 
 ```json
-"homepage": "https://<your-username>.github.io/my_developer_folio_1-c1f21"
+"homepage": "https://<your-username>.github.io/mua-tech-developer-portfolio"
 ```
 
 2. Deploy using:
@@ -216,7 +216,7 @@ This will push your site to the `gh-pages` branch and make it available at the s
 
 One-click deploy via Netlify:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/musamaakhtar-tech/my_developer_folio_1-c1f21)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/musamaakhtar-tech/mua-tech-developer-portfolio)
 
 Netlify offers automated deployments from GitHub, continuous integration, and easy configuration for custom domains and SSL.
 
@@ -253,6 +253,6 @@ You are encouraged to replace these assets with your own designs for a more pers
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://github.com/musamaakhtar-tech/my_developer_folio_1-c1f21/blob/master/LICENSE).
+This project is licensed under the [MIT License](https://github.com/musamaakhtar-tech/mua-tech-developer-portfolio/blob/master/LICENSE).
 
 You are free to use, modify, and distribute this template in your personal or commercial projects without restrictions. Attribution is appreciated but not required.
