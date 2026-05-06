@@ -10,7 +10,7 @@ export default function Footer() {
     <Fade bottom duration={1000} distance="5px">
       <div className="footer-div">
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-  {emoji("Made with ❤️ by ")} (
+  {emoji("Made with ❤️ by ")}
   <a
     href="https://github.com/musamaakhtar-tech"
     target="_blank"
@@ -18,7 +18,6 @@ export default function Footer() {
   >
     MUA Tech
   </a>
-  )
 </p>
       </div>
     </Fade>
